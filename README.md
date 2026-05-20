@@ -1,4 +1,4 @@
-Readme Memory Game Php Project
+Readme Memory Game Java Script Project
 Memory Game
 
 Un jeu de mémoire développé en HTML, CSS et JavaScript.
